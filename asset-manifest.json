@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-test/static/css/main.0cba2aaa.chunk.css",
+    "main.js": "/react-test/static/js/main.c510c093.chunk.js",
+    "main.js.map": "/react-test/static/js/main.c510c093.chunk.js.map",
+    "runtime-main.js": "/react-test/static/js/runtime-main.c573f54a.js",
+    "runtime-main.js.map": "/react-test/static/js/runtime-main.c573f54a.js.map",
+    "static/js/2.1c8610d0.chunk.js": "/react-test/static/js/2.1c8610d0.chunk.js",
+    "static/js/2.1c8610d0.chunk.js.map": "/react-test/static/js/2.1c8610d0.chunk.js.map",
+    "static/js/3.ef37436c.chunk.js": "/react-test/static/js/3.ef37436c.chunk.js",
+    "static/js/3.ef37436c.chunk.js.map": "/react-test/static/js/3.ef37436c.chunk.js.map",
+    "index.html": "/react-test/index.html",
+    "static/css/main.0cba2aaa.chunk.css.map": "/react-test/static/css/main.0cba2aaa.chunk.css.map",
+    "static/js/2.1c8610d0.chunk.js.LICENSE.txt": "/react-test/static/js/2.1c8610d0.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-test/static/media/Spoqa Han Sans Neo Regular.eca2b2af.otf",
+    "static/media/btn_kakao.82b1766c.svg": "/react-test/static/media/btn_kakao.82b1766c.svg",
+    "static/media/btn_link.70e0d7bc.svg": "/react-test/static/media/btn_link.70e0d7bc.svg",
+    "static/media/ewhasymbol.00473ae7.png": "/react-test/static/media/ewhasymbol.00473ae7.png",
+    "static/media/hi.9ba137c2.png": "/react-test/static/media/hi.9ba137c2.png",
+    "static/media/kahyun.a1de5cb7.png": "/react-test/static/media/kahyun.a1de5cb7.png",
+    "static/media/mihye.2a55ea3a.png": "/react-test/static/media/mihye.2a55ea3a.png",
+    "static/media/sayyoung.ae26f860.png": "/react-test/static/media/sayyoung.ae26f860.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c573f54a.js",
+    "static/js/2.1c8610d0.chunk.js",
+    "static/css/main.0cba2aaa.chunk.css",
+    "static/js/main.c510c093.chunk.js"
+  ]
+}
